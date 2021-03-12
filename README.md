@@ -2,10 +2,10 @@
 
 Project Outline:
 
-1. Data wrangling:
-Gathering data
-Assessing data
-Cleaning data
+1. Data wrangling:<br>
+Gathering data<br>
+Assessing data<br>
+Cleaning data<br>
 
 2. Storing, analyzing, and visualizing your wrangled data
 
@@ -25,6 +25,8 @@ The data was extracted programmatically from each tweet's text, but the ratings 
 
 After having ran every image in the WeRateDogs Twitter archive through a neural network that can classify breeds of dogs, the output is a table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
 
+1. Data wrangling
+
 Our next step is that all of this additional data will need to be gathered, assessed, and cleaned.
 
 Step 1. Gathering Data:
@@ -42,6 +44,12 @@ Step 3. Cleaning Data:
 
 Cleaning data is the third step in data wrangling process. We are going to fix the quality and tidiness issues that we have identified in the assess step.
 
-II. Analysis and Visualization:
+2. Storing, analyzing, and visualizing the wrangled data
 
 The next step is to start analysing and visualizing our dataset, and then drawing any valuable conclu-sions.
+
+3. Reporting:<br>
+- Act_report
+- Wrangled_report
+
+
