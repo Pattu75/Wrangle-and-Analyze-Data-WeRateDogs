@@ -1,17 +1,18 @@
 # Wrangle-and-Analyze-Data-WeRateDogs
 
-Wrangle and Analyze Data: WeRateDogs
 Project Outline:
-1. Data wrangling:
 
+1. Data wrangling:
 Gathering data
 Assessing data
 Cleaning data
+
 2. Storing, analyzing, and visualizing your wrangled data
 
 3. Reporting
 
 Introduction:
+
 In this project, we are going to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it anf finally act on it through analysis, visualization and/or modeling using Python (and its libraries) and/or SQL.
 
 The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
