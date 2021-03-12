@@ -3,9 +3,9 @@
 Project Outline:
 
 1. Data wrangling:<br>
-Gathering data<br>
-Assessing data<br>
-Cleaning data<br>
+- Gathering data<br>
+- Assessing data<br>
+- Cleaning data<br>
 
 2. Storing, analyzing, and visualizing your wrangled data
 
