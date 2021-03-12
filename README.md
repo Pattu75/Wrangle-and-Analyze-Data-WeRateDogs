@@ -30,6 +30,7 @@ After having ran every image in the WeRateDogs Twitter archive through a neural 
 Our next step is that all of this additional data will need to be gathered, assessed, and cleaned.
 
 Step 1. Gathering Data:
+
 The first step in our data wrangling process is gathering data from several different sources and file formats such as:
 
 The WeRateDogs Twitter Archive, which is a cvs file that contains the tweet for each dog's name, its rating and stage.
