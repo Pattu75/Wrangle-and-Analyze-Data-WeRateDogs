@@ -33,3 +33,15 @@ The first step in our data wrangling process is gathering data from several diff
 The WeRateDogs Twitter Archive, which is a cvs file that contains the tweet for each dog's name, its rating and stage.
 The Tweet Image Prediction, which is what breed of dog is in each tweet according to a neural network.
 The Twitter's API and JSON data, which will be used to gather retweet count and favorite count ( two missing columns in the Twitter Archive).
+
+Step 2. Assessing Data:
+
+After gathering data, the 3 tables which are twitter_archive, image_prediction and tweet_json were saved and assessed visually and programmatically to identify data quality issues as well as tidiness is-sues.
+
+Step 3. Cleaning Data:
+
+Cleaning data is the third step in data wrangling process. We are going to fix the quality and tidiness issues that we have identified in the assess step.
+
+II. Analysis and Visualization:
+
+The next step is to start analysing and visualizing our dataset, and then drawing any valuable conclu-sions.
