@@ -7,7 +7,7 @@ Project Outline:
 - Assessing data<br>
 - Cleaning data<br>
 
-2. Storing, analyzing, and visualizing your wrangled data
+2. Storing, analyzing, and visualizing wrangled data
 
 3. Reporting
 
